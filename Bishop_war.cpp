@@ -1,5 +1,3 @@
-/* HackerRank World Cup Semi-finals */
-
 #include <iostream>
 #include <cstdio>
 #include <cstring>
